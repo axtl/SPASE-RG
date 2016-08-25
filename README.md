@@ -22,6 +22,8 @@ Production"_](https://www.microsoft.com/en-us/research/publication/billions-and-
 
 * [_"Veritesting"_](https://users.ece.cmu.edu/~dbrumley/pdf/Avgerinos%20et%20al._2014_Enhancing%20Symbolic%20Execution%20with%20Veritesting.pdf)
 
+* [_"FIE on Firmware: Finding Vulnerabilities in Embedded Systems Using Symbolic Execution"_](https://www.usenix.org/conference/usenixsecurity13/technical-sessions/paper/davidson)
+
 ### Done
 
 * N/A
