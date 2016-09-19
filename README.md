@@ -5,8 +5,7 @@ Security, Program Analysis, Symbolic Execution Reading Group
 
 ### Next
 
-* [_"All you ever wanted to know about dynamic taint analysis and forward
-symbolic execution (but might have been afraid to ask)"_](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1242&context=ece)
+* [_"KLEE: Unassisted and Automatic Generation of High-Coverage Tests for Complex Systems Programs"_](http://www.css.csail.mit.edu/6.858/2014/readings/klee.pdf)
 
 ### Queue
 
@@ -26,5 +25,6 @@ Production"_](https://www.microsoft.com/en-us/research/publication/billions-and-
 
 ### Done
 
-* N/A
+* [_"All you ever wanted to know about dynamic taint analysis and forward
+symbolic execution (but might have been afraid to ask)"_](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1242&context=ece)
 
